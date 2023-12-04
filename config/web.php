@@ -15,7 +15,7 @@ $config = [
         "admin" => [
             "class" => "app\modules\admin\Module",
             "layout" => "admin",
-            "defaultRoute" => "default/index",
+            "defaultRoute" => "admin/index",
         ],
         'cabinet' => [
             'class' => 'app\modules\cabinet\Module',
